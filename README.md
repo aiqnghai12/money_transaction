@@ -1,2 +1,29 @@
+<<<<<<< HEAD
 # money_transaction
 货币交易系统 前端项目
+=======
+# objectcode
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> d28c41a... init
