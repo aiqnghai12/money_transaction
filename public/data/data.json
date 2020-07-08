@@ -1,0 +1,244 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "timer": "03-03",
+            "condition": "2",
+            "trading": "0",
+            "price": "8.57",
+            "total_number": "431"
+        },
+        {
+            "id": 2,
+            "timer": "10-27",
+            "condition": "3",
+            "trading": "1",
+            "price": "95.01",
+            "total_number": "3299"
+        },
+        {
+            "id": 3,
+            "timer": "11-18",
+            "condition": "1",
+            "trading": "0",
+            "price": "258.05",
+            "total_number": "450"
+        },
+        {
+            "id": 4,
+            "timer": "08-07",
+            "condition": "2",
+            "trading": "1",
+            "price": "271.56",
+            "total_number": "122"
+        },
+        {
+            "id": 5,
+            "timer": "06-31",
+            "condition": "2",
+            "trading": "1",
+            "price": "996.39",
+            "total_number": "8835"
+        },
+        {
+            "id": 6,
+            "timer": "07-30",
+            "condition": "2",
+            "trading": "0",
+            "price": "3.47",
+            "total_number": "985"
+        },
+        {
+            "id": 7,
+            "timer": "10-05",
+            "condition": "2",
+            "trading": "1",
+            "price": "6.72",
+            "total_number": "13164"
+        },
+        {
+            "id": 8,
+            "timer": "08-31",
+            "condition": "2",
+            "trading": "1",
+            "price": "027.13",
+            "total_number": "0132"
+        },
+        {
+            "id": 9,
+            "timer": "10-04",
+            "condition": "2",
+            "trading": "1",
+            "price": "5.75",
+            "total_number": "46656"
+        },
+        {
+            "id": 10,
+            "timer": "10-10",
+            "condition": "1",
+            "trading": "0",
+            "price": "83.63",
+            "total_number": "417"
+        },
+        {
+            "id": 11,
+            "timer": "10-31",
+            "condition": "2",
+            "trading": "0",
+            "price": "81.81",
+            "total_number": "687"
+        },
+        {
+            "id": 12,
+            "timer": "10-15",
+            "condition": "2",
+            "trading": "1",
+            "price": "75.42",
+            "total_number": "14803"
+        },
+        {
+            "id": 13,
+            "timer": "11-07",
+            "condition": "2",
+            "trading": "1",
+            "price": "7.76",
+            "total_number": "8335"
+        },
+        {
+            "id": 14,
+            "timer": "11-30",
+            "condition": "3",
+            "trading": "0",
+            "price": "81.19",
+            "total_number": "383"
+        },
+        {
+            "id": 15,
+            "timer": "03-31",
+            "condition": "1",
+            "trading": "1",
+            "price": "0.24",
+            "total_number": "4536"
+        },
+        {
+            "id": 16,
+            "timer": "12-02",
+            "condition": "2",
+            "trading": "1",
+            "price": "692.65",
+            "total_number": "504"
+        },
+        {
+            "id": 17,
+            "timer": "11-31",
+            "condition": "2",
+            "trading": "0",
+            "price": "2.87",
+            "total_number": "3833"
+        },
+        {
+            "id": 18,
+            "timer": "10-05",
+            "condition": "1",
+            "trading": "0",
+            "price": "235.52",
+            "total_number": "90173"
+        },
+        {
+            "id": 19,
+            "timer": "10-07",
+            "condition": "1",
+            "trading": "0",
+            "price": "124.47",
+            "total_number": "19560"
+        },
+        {
+            "id": 20,
+            "timer": "12-31",
+            "condition": "1",
+            "trading": "1",
+            "price": "616.61",
+            "total_number": "8713"
+        },
+        {
+            "id": 21,
+            "timer": "12-06",
+            "condition": "3",
+            "trading": "1",
+            "price": "777.76",
+            "total_number": "31296"
+        },
+        {
+            "id": 22,
+            "timer": "05-30",
+            "condition": "2",
+            "trading": "1",
+            "price": "88.34",
+            "total_number": "434"
+        },
+        {
+            "id": 23,
+            "timer": "11-05",
+            "condition": "2",
+            "trading": "0",
+            "price": "32.26",
+            "total_number": "0364"
+        },
+        {
+            "id": 24,
+            "timer": "06-05",
+            "condition": "1",
+            "trading": "0",
+            "price": "4.79",
+            "total_number": "62725"
+        },
+        {
+            "id": 25,
+            "timer": "11-17",
+            "condition": "2",
+            "trading": "0",
+            "price": "02.03",
+            "total_number": "1781"
+        },
+        {
+            "id": 26,
+            "timer": "05-31",
+            "condition": "1",
+            "trading": "1",
+            "price": "454.31",
+            "total_number": "5743"
+        },
+        {
+            "id": 27,
+            "timer": "05-05",
+            "condition": "2",
+            "trading": "1",
+            "price": "29.35",
+            "total_number": "1866"
+        },
+        {
+            "id": 28,
+            "timer": "01-30",
+            "condition": "2",
+            "trading": "0",
+            "price": "17.65",
+            "total_number": "70792"
+        },
+        {
+            "id": 29,
+            "timer": "07-02",
+            "condition": "2",
+            "trading": "0",
+            "price": "21.18",
+            "total_number": "95511"
+        },
+        {
+            "id": 30,
+            "timer": "09-31",
+            "condition": "2",
+            "trading": "1",
+            "price": "97.11",
+            "total_number": "72389"
+        }
+    ]
+}

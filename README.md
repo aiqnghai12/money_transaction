@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# money_transaction
-货币交易系统 前端项目
-=======
 # objectcode
 
 ## Project setup
@@ -26,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> d28c41a... init
