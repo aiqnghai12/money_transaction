@@ -4,8 +4,8 @@
         </div>
          <p class="shop_name">{{shop_name}}</p>
          <div class="shop_msg">
-             <p>{{oldorder}} <span>成交单</span> </p>
-             <p>{{price}} <span>CNY</span> </p>
+             <div> <p>{{oldorder}}</p>  <span>成交单</span> </div>
+             <div> <p>{{price}}</p>  <span>CNY</span> </div>
          </div>
     </div>
 </template>
@@ -14,9 +14,9 @@
 export default {
       data(){return{ // 买币
             id: 1,
-            price: 561.35,
+            price: 5.35,
             shop_name: 'v{货币寂静[87>',
-            oldorder: 64671,
+            oldorder: 61271,
             oldorder_: 2,
             number: 550,
             max_number: 2342,
@@ -33,6 +33,7 @@ export default {
      height 0.67rem
      display flex
      background #fff
+     border-radius 0.1rem
      justify-content space-between
      align-items center
      .shop_img
@@ -45,10 +46,10 @@ export default {
       justify-content center
       align-items center
       img 
-       width 0.7rem
-       height 0.7rem
+       width 0.6rem
+       height 0.6rem
     .shop_name
-      width 1.3rem
+      width 1.2rem
     
     .shop_msg
       width 1.1rem
@@ -56,7 +57,7 @@ export default {
       justify-content space-between
       align-items center
       margin-right 0.1rem
-      p
+      div
        display flex
        width 0.5rem
        text-align right
@@ -65,4 +66,8 @@ export default {
        span 
         font-size 0.12rem
         color #4D53F1
+       p 
+        overflow  hidden 
+        text-overflow ellipsis 
+        white-space  nowrap 
 </style>

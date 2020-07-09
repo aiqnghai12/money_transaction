@@ -1,5 +1,5 @@
 <template>
-    <div class="mine">
+    <div class="mine container">
         我的页面
     </div>
 </template>
@@ -11,6 +11,5 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-   .mine
-     flex 1
+     
 </style>

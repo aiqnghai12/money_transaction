@@ -1,5 +1,5 @@
 <template>
-    <div class="order">
+    <div class="order container">
         订单页面
     </div>
 </template>
@@ -11,6 +11,5 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-   .order
-     flex  1
+   
 </style>

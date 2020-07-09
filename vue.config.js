@@ -22,28 +22,14 @@
          .set('com',path.join(__dirname,'./src/components'))
          .set('js',path.join(__dirname,'./src/assets/js'))
          .set('@utilt',path.join(__dirname,'./src/utilt'))
-         .set('router',path.join(__dirname,'./src/router'))
+         .set('@router',path.join(__dirname,'./src/router'))
          .set('assets',path.join(__dirname,'./src/assets'))
          .set('@index',path.join(__dirname,'./src/components/index'))
          .set('@Api',path.join(__dirname,'./src/Api'))
+         .set('@pages',path.join(__dirname,'./src/pages'))
      },
      //  多页面配置
      pages:{
-         details:{
-             entry:'src/pages/details.js',
-             template:'public/details.html',
-             filename:'details.html'
-         },
-         table:{
-            entry:'src/pages/table.js',
-            template:'public/table.html',
-            filename:'table.html'
-        },
-        personal:{
-            entry:'src/pages/personal.js',
-            template:'public/personal.html',
-            filename:'personal.html'
-        },
          index:{
             entry:'src/main.js',
             template:'public/index.html',

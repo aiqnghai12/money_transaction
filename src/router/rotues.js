@@ -1,23 +1,23 @@
 
-const underfind404 = () => import(/*webpackChunckName:group-foo*/'com/404')
-const indexorder = () => import(/*webpackChunckName:group-foo*/'@index/order')
-const indexmine = () => import(/*webpackChunckName:group-foo*/'@index/mine')
-const indexmain = () => import(/*webpackChunckName:group-foo*/'@index/main')
+const underfind404 = () => import(/*webpackChunckName:group-foo*/'@pages/404')
+const order = () => import(/*webpackChunckName:group-foo*/'@pages/order')
+const mine = () => import(/*webpackChunckName:group-foo*/'@pages/mine')
+const main = () => import(/*webpackChunckName:group-foo*/'@pages/index')
 const mainbuy =  () => import(/*webpackChunckName:group-foo*/'@index/buysell/buy')
 const mainsell =  () => import(/*webpackChunckName:group-foo*/'@index/buysell/sell')
 
 export default {routes: [
     {
       path: '/index',
-      component: indexmain
+      component: main
     },
     {
         path:'/order',
-        component: indexorder
+        component: order
     },
     {
         path:'/mine',
-        component: indexmine
+        component: mine
     },
     {
         path: '/index/buy',

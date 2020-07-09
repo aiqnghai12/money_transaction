@@ -24,6 +24,7 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
+
    p,ul
     padding 0
     margin 0

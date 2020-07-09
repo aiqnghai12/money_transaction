@@ -10,7 +10,7 @@
   
   <script>
       import {mapState} from 'vuex'   
-  import Header from './addmessage/Header'
+  import Header from 'comps//addmessage/Header'
    import operationinputs from './addmessage/operationinputs'
 
   export default {

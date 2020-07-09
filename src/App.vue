@@ -23,12 +23,11 @@ export default {
 
 <style lang="stylus">
     @import 'assets/stylus/fister.css'
-    
+    @import 'assets/stylus/border.styl' 
+
     html,body,.App
-     height 100%;
+     height 100%
      background #fcfcfc
-     margin 0
-     padding 0
 
     .App
       display  flex

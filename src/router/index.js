@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import rotuesindex from 'router/rotues'
+import rotuesindex from '@router/rotues'
 
 Vue.use(Router)
 

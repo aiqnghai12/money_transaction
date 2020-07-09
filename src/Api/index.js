@@ -1,5 +1,5 @@
 import request from '@utilt/request'
-import { cateUrl,phoneTokemUrl ,emailTokemUrl} from './url';
+import { cateUrl,phoneTokemUrl ,emailTokemUrl,orderMsgUrl} from './url';
 //! 获取分类页面
 export function cateReq (params) {
   //  /index.php?r=class/category&type=1
@@ -23,5 +23,13 @@ export function emailTokem (email){
     method:'post',
     url:emailTokemUrl,
     data:email
+  })
+}
+
+export function orderMsgReq (params){
+  return request({
+    method:'post',
+    url:orderMsgUrl,
+    data:params
   })
 }

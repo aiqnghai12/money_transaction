@@ -1,5 +1,5 @@
 <template>
-        <div class="main">
+        <div class="main container">
        <mainheader-component is='mainheader'></mainheader-component>
        <lun-component is="lun1"></lun-component>
              <router-view/>
@@ -51,7 +51,6 @@ components:{
 
 <style lang="stylus" scoped>
    .main
-    flex 1
     font-size 0.16rem
     .news
      margin 0 auto

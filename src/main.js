@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import '@utilt'
 import store from 'store'
-import  router from 'router'
+import  router from '@router'
 import '@utilt/vueTouch.js'
 
 Vue.config.productionTip = false
